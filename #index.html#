@@ -1,0 +1,23 @@
+<html>
+<header>
+    <title>Google</title>
+    <link rel="stylesheet" href="style.css">
+</header>
+<body>
+    <ul>
+        <li><a href="default.asp">Home</a></li>
+        <li><a href="news.asp">News</a></li>
+        <li style="float:right"><a class="active" href="#active">Contact</a></li>
+        <li style="float:right"><a class="active" href="#about">About</a></li>
+
+    </ul>
+    <center><img src="./google_turkeyday.gif"></center>
+   <center><form>
+      <div>
+          <label for="Search">Search</label>
+          <input type="search" id="websearch" name="search_websearch">
+      </div>
+   </form></center>
+   <center><button>Google Search</button> <button>I'm feeling lucky</button></center>
+</body>
+</html>
