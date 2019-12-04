@@ -1,9 +1,52 @@
 ul {
-    list-style: none;
+  
     margin: 0;
     padding: 0;
+    border: 1px #f3f3f3
 }
 
 li {
     display: inline;
+    font-size: 12px;
+    
 }
+
+li a {
+    color: #464241
+}
+
+img {
+	position: relative;
+	bottom: -120px;
+}
+
+div {
+	position: relative;
+	padding: 5px 8px 0 16px;
+	bottom: -145;
+}
+
+
+
+
+
+button {
+	height: 5%;
+	position: relative;
+	bottom: -150;
+	background: #f2f2f2;
+	border-radius: 5px;
+	
+}
+
+
+input {
+	width: 42%;
+	padding: 10px;
+	border-radius: 30px;
+	
+
+}
+
+
+
